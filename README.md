@@ -169,3 +169,6 @@ The repository includes the following core project files:
 4. K. M. Passino and S. Yurkovich, *Fuzzy Control*, Addison-Wesley, 1998.
 
 5. National Instruments, *LabVIEW Fuzzy Logic Toolkit User Manual*, 2023.
+
+# 📄 License
+Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
